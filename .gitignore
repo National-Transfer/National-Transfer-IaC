@@ -1,0 +1,5 @@
+.terraform
+.terraform.lock.hcl
+.env
+secrets/*
+argocd_manifests/argo-github-secret.yml
